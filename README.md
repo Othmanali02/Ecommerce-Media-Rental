@@ -1,4 +1,5 @@
 # Ecommerce Media Rental System 👨‍💻
+![image](https://user-images.githubusercontent.com/73076057/157237882-9a87942e-d1bf-4c18-be1d-d049ad867afd.png)
 Media Rental system using Javafx, using text files as a database for the media and customers, which are added to an arraylist of customers and media seperately. The arraylists will get the full implementation of the methods found in the interface. 
 Feel free to email me if you have any questions regardeing the project.
 

@@ -5,8 +5,8 @@ Feel free to email me if you have any questions regardeing the project.
 #Design
 ## Home Screen
 ![image](https://user-images.githubusercontent.com/73076057/157237882-9a87942e-d1bf-4c18-be1d-d049ad867afd.png)
-This page is basically to choose what would you like to do with the database. The "Save Inventory" button could also be used as the "Back" button found inside every page.
-P.s: the name literally has nothing to do with the show or anything related, i just thought it was cool. And I do claim this design lol.
+This page means choosing where would you like to modify with the database, and also renting media. The "Save Inventory" button could also be used as the "Back" button found inside every page.
+P.s: I do claim this cool design lol.
 ## Customer
 ![Screenshot 2022-03-08 142851](https://user-images.githubusercontent.com/73076057/157238359-85fe78cb-a04b-45ec-b246-1c9d5766df02.png)
 This is the customer page, which you can choose what to do with every customer in the db.
